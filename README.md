@@ -10,5 +10,5 @@ O que foi feito na prática:
 * **Power BI:** Conexão direta com o banco de dados MySQL para extrair as informações e construir o painel.
 
 * ## 📊 Visualização do Dashboard
-![Dashboard SAAA](<img width="920" height="612" alt="imagem_dashboard" src="https://github.com/user-attachments/assets/9ce4bb19-d2fe-4a6a-8dd1-f6eb2304440f" />
-)
+
+<img width="920" height="612" alt="imagem_dashboard" src="https://github.com/user-attachments/assets/9ce4bb19-d2fe-4a6a-8dd1-f6eb2304440f" />
