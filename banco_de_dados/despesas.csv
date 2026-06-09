@@ -1,0 +1,9 @@
+id_despesas;id_projeto;tipo_despesa;valor_despesa;data_despesa
+1;IDP09;Alimentação;140.00;2025-10-15
+2;IDP45;Viagens/Estadias;1200.00;2025-11-22
+3;IDP89;Licenças de Software;450.00;2025-09-05
+4;IDP77;Infraestrutura / Nuvem;200.00;2025-12-12
+5;IDP09;Viagens/Estadias;650.00;2025-10-18
+6;IDP33;Alimentação;95.00;2025-11-03
+7;IDP34;Licenças de Software;300.00;2025-11-20
+8;IDP45;Infraestrutura / Nuvem;150.00;2025-12-01
