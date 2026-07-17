@@ -10,11 +10,11 @@ O que foi feito na prática:
 * **Power BI:** Conexão direta com o banco de dados MySQL para extrair as informações e construir o painel.
 * **Upgrade - Automação em Python:** Adicionei uma nova camada de processamento ao projeto utilizando Python e Pandas. O objetivo foi replicar as regras de negócio e consultas SQL (Views e Funções) em um ambiente de código mais flexível, permitindo:
 
-    Processamento vetorizado de grandes volumes de dados.
+    * Processamento vetorizado de grandes volumes de dados.
 
-    Maior facilidade na manutenção e alteração das regras de cálculo.
+    * Maior facilidade na manutenção e alteração das regras de cálculo.
 
-    Redução da dependência de um servidor de banco de dados para análises rápidas.
+    * Redução da dependência de um servidor de banco de dados para análises rápidas.
 
 * ## 📊 Visualização do Dashboard
 
