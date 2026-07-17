@@ -8,6 +8,13 @@ O que foi feito na prática:
 * **Excel:** Tratamento e formatação da planilha de despesas, ajustando formatos de datas e valores para garantir a compatibilidade na importação.
 * **MySQL:** Criação das tabelas do zero, aplicação de uma regra de segurança (`Constraint`) para impedir valores zerados ou negativos e criação de uma `View` para automatizar o relatório de gastos por cliente.
 * **Power BI:** Conexão direta com o banco de dados MySQL para extrair as informações e construir o painel.
+* **Upgrade - Automação em Python:** Adicionei uma nova camada de processamento ao projeto utilizando Python e Pandas. O objetivo foi replicar as regras de negócio e consultas SQL (Views e Funções) em um ambiente de código mais flexível, permitindo:
+
+    Processamento vetorizado de grandes volumes de dados.
+
+    Maior facilidade na manutenção e alteração das regras de cálculo.
+
+    Redução da dependência de um servidor de banco de dados para análises rápidas.
 
 * ## 📊 Visualização do Dashboard
 
